@@ -36,6 +36,8 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 
 ## GitHub Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Emanoel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Otavio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Otavio-Emanoel&show_icons=true&theme=radical)
 
 ---
