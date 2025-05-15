@@ -46,4 +46,4 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 
 Feel free to reach out or explore my projects!
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Otavio-Emanoel)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Otavio-Emanoel?tab=repositories)
