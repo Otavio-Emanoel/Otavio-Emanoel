@@ -12,7 +12,7 @@
 
 - 🎓 <b>System Development</b> student at <b>Etec de Peruíbe</b>
 - 💡 Passionate about building scalable web applications
-- 🌱 Currently learning: <b>Node.js</b>, <b>React</b>, <b>Express</b>, <b>C#</b>, <b>Java</b>
+- 🌱 Currently learning: <b>Node.js</b>, <b>React</b>, <b>Express</b>, <b>C#</b>, <b>Java</b>, <b>Dart</b>, <b>Flutter</b>
 - 🧩 Always exploring new tools, frameworks, and best practices
 - 📫 Open to collaborations and new challenges!
 
@@ -28,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <br><br>
@@ -43,6 +44,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" width="40" alt="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="SCSS/Sass"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
   <br><br>
 
   <!-- Databases -->
@@ -92,14 +94,17 @@
 Check out some of my latest projects.  
 For the full list, see all my repos on <a href="https://github.com/Otavio-Emanoel?tab=repositories" target="_blank">GitHub</a>!
 
+- <b><a href="https://github.com/Otavio-Emanoel/GoLocal">GoLocal</a></b> <sub>(React Native, TS, turismo Peruíbe)</sub>
+- <b><a href="https://github.com/Otavio-Emanoel/Jademo-Studio">Jademo-Studio</a></b> <sub>(Câmera com filtros, chatbot, MediaPipe)</sub>
+- <b><a href="https://github.com/Otavio-Emanoel/Scriptum-Library">Scriptum-Library</a></b> <sub>(Biblioteca virtual, Hackathon)</sub>
+- <b><a href="https://github.com/Otavio-Emanoel/MecanicaForm">MecanicaForm</a></b> <sub>(Windows Forms C#)</sub>
 - <b><a href="https://github.com/Otavio-Emanoel/BeautyHub">BeautyHub</a></b> <sub>(TypeScript & NextJS)</sub>
 - <b><a href="https://github.com/Otavio-Emanoel/AulaPW-React">AulaPW-React</a></b> <sub>(JavaScript, React)</sub>
 - <b><a href="https://github.com/Otavio-Emanoel/AulaReact_PW_Deploy">AulaReact_PW_Deploy</a></b> <sub>(React, Vercel Deploy)</sub>
-- <b><a href="https://github.com/Otavio-Emanoel/Jademo-Studio">Jademo-Studio</a></b> <sub>(Monaca.io, MIT License)</sub>
-- <b><a href="https://github.com/Otavio-Emanoel/MecanicaForm">MecanicaForm</a></b> <sub>(Windows Forms C#)</sub>
 - <b><a href="https://github.com/Otavio-Emanoel/AnyBuy">AnyBuy</a></b> <sub>(EJS)</sub>
 - <b><a href="https://github.com/Otavio-Emanoel/AppNamoro">AppNamoro</a></b> <sub>(React Native - JS)</sub>
 - <b><a href="https://github.com/Otavio-Emanoel/LoveYou">LoveYou</a></b> <sub>(React Native - TS)</sub>
+- <b><a href="https://github.com/Otavio-Emanoel/MadnessCombatApp">MadnessCombatApp</a></b> <sub>(Flutter - Dart)</sub>
 
 ---
 
@@ -120,7 +125,3 @@ For the full list, see all my repos on <a href="https://github.com/Otavio-Emanoe
   </a>
   <!-- Add more social links here if needed -->
 </p>
-
----
-
-<sub>⚡️ I have <b>56 repositories</b> — check them all <a href="https://github.com/Otavio-Emanoel?tab=repositories" target="_blank">here</a>!</sub>
