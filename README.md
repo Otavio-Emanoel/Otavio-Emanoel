@@ -112,9 +112,9 @@ For the full list, see all my repos on <a href="https://github.com/Otavio-Emanoe
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Otavio-Emanoel&show_icons=true&theme=radical" alt="Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Emanoel&layout=compact&theme=radical" alt="Top Langs"/>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://otavio-emanoel.github.io/ReadmeStats/stats.svg" alt="Status Desenvolvido por mim mesmo" />
-</div>
+</div> -->
 
 ---
 
