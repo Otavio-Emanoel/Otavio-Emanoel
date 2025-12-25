@@ -1,128 +1,200 @@
-<h1 align="center">Hi, I'm Otavio Emanoel 👋</h1>
+<img src="./dev.gif" alt="dev" min-width="320px" max-width="320px" width="320px" align="right">
+
+<h1 align="center">Olá, eu sou Otávio Emanoel 👋</h1>
 
 <p align="center">
-  <b>Developer in training | Web enthusiast | Tech Explorer</b>
+  <b>Desenvolvedor em formação | Entusiasta de Web | Explorador de tecnologia</b>
+</p>
+
+<p align="left">
+  Estudante de <strong>Desenvolvimento de Sistemas</strong> na <strong>Etec de Peruíbe</strong>.<br>
+  No momento, sigo estudando e construindo projetos com foco em aplicações web e mobile.
+</p>
+
+<p align="left">
+  🦄 Linguagens: <strong>JavaScript, TypeScript, Java, C#, Dart, HTML, CSS</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Node.js, React, Next.js, Vite, Express, Flutter, Git/GitHub</strong>
+</p>
+
+<p align="left">
+  💌 Para falar comigo: ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:otavioemanuel6b@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="www.linkedin.com/in/otavioelima" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/_otavio.js/" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/Otavio-Emanoel" title="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
-- 🎓 <b>System Development</b> student at <b>Etec de Peruíbe</b>
-- 💡 Passionate about building scalable web applications
-- 🌱 Currently learning: <b>Node.js</b>, <b>React</b>, <b>Express</b>, <b>C#</b>, <b>Java</b>, <b>Dart</b>, <b>Flutter</b>
-- 🧩 Always exploring new tools, frameworks, and best practices
-- 📫 Open to collaborations and new challenges!
+
+```js
+import Desenvolvedor from "Otavio-Emanoel";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Otavio Emanoel";
+  area = "Desenvolvedor fullstack";
+  trabalho = "Estudante (Etec de Peruíbe)";
+  local = "SP - Brasil";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["JavaScript", "TypeScript", "Java", "C#", "Dart"];
+  bibliotecas = ["React", "Three.js"];
+  frameworks = ["Next.js", "Node.js", "Express", "Flutter"];
+  sistema_operacional = ["Fedora Linux", "Arch Linux", "Debian", "Ubuntu", "Kali Linux"];
+}
+```
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️ Linguagens & Tecnologias
+
+<table align="center">
+  <tr>
+    <td align="center" width="180"><b>Linguagens</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" alt="TypeScript" title="TypeScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" alt="JavaScript" title="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" alt="Java" title="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" alt="C#" title="C#" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" alt="Dart" title="Dart" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" alt="HTML" title="HTML" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" alt="CSS" title="CSS" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Front-end</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React" title="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="36" alt="Next.js" title="Next.js" style="background-color:white; border-radius:8px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="36" alt="Vite" title="Vite" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" alt="Tailwind CSS" title="Tailwind CSS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" alt="Sass" title="Sass" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Back-end</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js" title="Node.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" alt="Express" title="Express" style="background-color:white; border-radius:8px; padding:2px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" alt="Spring Boot" title="Spring Boot" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Mobile</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" alt="Flutter" title="Flutter" />
+      <img src="https://cdn.simpleicons.org/expo/000020" width="36" alt="Expo" title="Expo (React Native)" style="background-color:white; border-radius:8px; padding:2px;" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Banco de dados</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" alt="MySQL" title="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" alt="MongoDB" title="MongoDB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="36" alt="Firebase" title="Firebase" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Cloud / Deploy</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/vercel/000000" width="36" alt="Vercel" title="Vercel" style="background-color:white; border-radius:8px; padding:2px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" alt="Azure" title="Azure" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Ferramentas</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git" title="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" alt="VS Code" title="VS Code" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>🐧 Linux</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="36" alt="Fedora" title="Fedora" />
+      <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="36" alt="Arch Linux" title="Arch Linux" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="36" alt="Debian" title="Debian" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="36" alt="Ubuntu" title="Ubuntu" />
+      <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="36" alt="Kali Linux" title="Kali Linux" />
+    </td>
+  </tr>
+</table>
+
+## ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Otavio-Emanoel&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Emanoel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Top Langs"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Otavio-Emanoel&theme=dark&hide_border=false"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 GitHub Profile Trophy
 
 <p align="center">
-
-  <!-- Programming Languages -->
-  <b>Programming Languages</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <br><br>
-
-  <!-- Frameworks & Libraries -->
-  <b>Frameworks & Libraries</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" alt="Next.js" style="background-color:white; border-radius:8px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" width="40" alt="Vite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express"/>
-  <img src="https://www.svgrepo.com/show/373574/ejs.svg" width="40" alt="EJS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" width="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="SCSS/Sass"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
-  <br><br>
-
-  <!-- Databases -->
-  <b>Databases</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40" alt="Firebase" />
-  <br><br>
-
-  <!-- Cloud & Deployment -->
-  <b>Cloud & Deployment</b><br>
-  <img src="https://cdn.simpleicons.org/vercel/000000" width="40" alt="Vercel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
-  <br><br>
-
-  <!-- Tools & Editors -->
-  <b>Tools & Editors</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ IDEA"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/666px-Apache_NetBeans_Logo.svg.png" width="40" alt="NetBeans"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" alt="Eclipse"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="40" alt="Fedora"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" alt="Ubuntu"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" alt="Debian"/>
-  <br><br>
-
-  <!-- Design & Productivity -->
-  <b>Design & Productivity</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" alt="Canva"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png?20210821050502" width="40" alt="Microsoft Word"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png?20210821050414" width="40" alt="Microsoft PowerPoint"/>
-  <br><br>
-
-  <!-- AI & Extensions -->
-  <b>AI & Extensions</b><br>
-  <img src="https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.336.0/1750349846155/Microsoft.VisualStudio.Services.Icons.Default" width="40" alt="GitHub Copilot" title="GitHub Copilot"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=Otavio-Emanoel&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      alt="GitHub Trophies"
+    />
+  </a>
 </p>
 
 ---
-
-## 🚩 Featured Projects
-
-Check out some of my latest projects.  
-For the full list, see all my repos on <a href="https://github.com/Otavio-Emanoel?tab=repositories" target="_blank">GitHub</a>!
-
-- <b><a href="https://github.com/Otavio-Emanoel/GoLocal">GoLocal</a></b> <sub>(React Native, TS, turismo Peruíbe)</sub>
-- <b><a href="https://github.com/Otavio-Emanoel/Jademo-Studio">Jademo-Studio</a></b> <sub>(Câmera com filtros, chatbot, MediaPipe)</sub>
-- <b><a href="https://github.com/Otavio-Emanoel/Scriptum-Library">Scriptum-Library</a></b> <sub>(Biblioteca virtual, Hackathon)</sub>
-- <b><a href="https://github.com/Otavio-Emanoel/MecanicaForm">MecanicaForm</a></b> <sub>(Windows Forms C#)</sub>
-- <b><a href="https://github.com/Otavio-Emanoel/BeautyHub">BeautyHub</a></b> <sub>(TypeScript & NextJS)</sub>
-- <b><a href="https://github.com/Otavio-Emanoel/AulaPW-React">AulaPW-React</a></b> <sub>(JavaScript, React)</sub>
-- <b><a href="https://github.com/Otavio-Emanoel/AulaReact_PW_Deploy">AulaReact_PW_Deploy</a></b> <sub>(React, Vercel Deploy)</sub>
-- <b><a href="https://github.com/Otavio-Emanoel/AnyBuy">AnyBuy</a></b> <sub>(EJS)</sub>
-- <b><a href="https://github.com/Otavio-Emanoel/AppNamoro">AppNamoro</a></b> <sub>(React Native - JS)</sub>
-- <b><a href="https://github.com/Otavio-Emanoel/LoveYou">LoveYou</a></b> <sub>(React Native - TS)</sub>
-- <b><a href="https://github.com/Otavio-Emanoel/MadnessCombatApp">MadnessCombatApp</a></b> <sub>(Flutter - Dart)</sub>
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Otavio-Emanoel&show_icons=true&theme=radical" alt="Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Emanoel&layout=compact&theme=radical" alt="Top Langs"/>
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
-<!-- <div align="center">
-  <img height="180em" src="https://otavio-emanoel.github.io/ReadmeStats/stats.svg" alt="Status Desenvolvido por mim mesmo" />
-</div> -->
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Otavio-Emanoel/count.svg" alt="Número de visitantes no perfil" />
+</p>
 
 ---
-
-## 🌐 Connect with Me
-
-<p>
-  <a href="https://github.com/Otavio-Emanoel">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
-  </a>
- 
-</p>
