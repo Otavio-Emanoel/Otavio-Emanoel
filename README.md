@@ -181,7 +181,7 @@ class Skills extends Desenvolvedor {
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=Otavio-Emanoel&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy-silk-six.vercel.app/?username=Otavio-Emanoel&column=8&theme=darkhub&no-frame=true&no-bg=true"
       alt="GitHub Trophies"
     />
   </a>
