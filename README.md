@@ -27,7 +27,7 @@
   <a href="mailto:otavioemanuel6b@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="www.linkedin.com/in/otavioelima" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/otavioelima" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/_otavio.js/" title="Instagram">
@@ -185,16 +185,6 @@ class Skills extends Desenvolvedor {
       alt="GitHub Trophies"
     />
   </a>
-</p>
-
----
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Otavio-Emanoel/count.svg" alt="Número de visitantes no perfil" />
 </p>
 
 ---
