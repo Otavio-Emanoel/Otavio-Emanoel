@@ -151,14 +151,14 @@ class Skills extends Desenvolvedor {
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Otavio-Emanoel&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats-theta-ten-57.vercel.app/api?username=Otavio-Emanoel&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Emanoel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats-theta-ten-57.vercel.app/api/top-langs/?username=Otavio-Emanoel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Top Langs"
       />
     </td>
