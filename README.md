@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript, TypeScript, Java, C#, Dart, HTML, CSS</strong>
+  💻 Linguagens: <strong>JavaScript, TypeScript, Java, C#, Dart, HTML, CSS</strong>
 </p>
 
 <p align="left">
