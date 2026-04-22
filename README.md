@@ -54,9 +54,9 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["JavaScript", "TypeScript", "Java", "C#", "Dart"];
+  linguagens = ["JavaScript", "TypeScript", "Java", "C#", "Dart", "Go"];
   bibliotecas = ["React", "Three.js"];
-  frameworks = ["Next.js", "Node.js", "Express", "Flutter"];
+  frameworks = ["Next.js", "Node.js", "Express", "Flutter", "Spring"];
   sistema_operacional = ["Fedora Linux", "Arch Linux", "Debian", "Ubuntu", "Kali Linux"];
 }
 ```
