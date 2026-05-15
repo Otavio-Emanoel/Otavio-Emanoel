@@ -1,6 +1,6 @@
 <img src="./dev.gif" alt="dev" min-width="320px" max-width="320px" width="320px" align="right">
 
-<h1 align="center">Olá, eu sou Otávio Emanoel 👋</h1>
+<h1 align="center">Olá, eu sou Otavio Emanoel 👋</h1>
 
 <p align="center">
   <b>Desenvolvedor em formação | Entusiasta de Web | Explorador de tecnologia</b>
