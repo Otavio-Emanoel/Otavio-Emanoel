@@ -164,11 +164,7 @@ class Skills extends Desenvolvedor {
     </td>
     <td>
       <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Otavio-Emanoel&theme=dark&hide_border=false"
-        alt="GitHub Streak"
-      />
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats1-blond-zeta.vercel.app?user=Otavio-Emanoel&theme=black-ice&border_radius=10&card_width=480" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
