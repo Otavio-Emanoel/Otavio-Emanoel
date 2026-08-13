@@ -59,7 +59,7 @@ class AboutMe extends Developer {
 - <img src="https://api.iconify.design/octicon:star-fill-16.svg?color=%23a855f7" width="12" /> **Current Learning**: Deepening knowledge in Full Stack Architecture, Cloud Infrastructure, and Backend Performance.
 - <img src="https://api.iconify.design/octicon:star-fill-16.svg?color=%23a855f7" width="12" /> **System Preference**: Daily Linux power user experimenting across Fedora, Arch Linux, Debian, Ubuntu, and Kali Linux.
 
-<br />
+<br clear="right" />
 
 ---
 
@@ -145,7 +145,7 @@ class AboutMe extends Developer {
 
 <p align="center">
   <img src="https://github-readme-stats-theta-ten-57.vercel.app/api?username=Otavio-Emanoel&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=0d1117&border_color=a855f7&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="175" />
-  <img src="https://github-readme-stats-theta-ten-57.vercel.app/api/top-langs/?username=Otavio-Emanoel&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=0d1117&border_color=a855f7&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="175" />
+  <!-- <img src="https://github-readme-stats-theta-ten-57.vercel.app/api/top-langs/?username=Otavio-Emanoel&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=0d1117&border_color=a855f7&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="175" /> -->
 </p>
 
 <p align="center">
