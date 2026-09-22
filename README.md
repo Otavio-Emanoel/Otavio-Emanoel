@@ -46,7 +46,7 @@ class AboutMe extends Developer {
   role     = "Full Stack & Mobile Dev";
   position = "Intern at YupChat";
   site     = "otavio-emanoel-dev.vercel.app";
-  location = "São Paulo, Brazil";
+  location = ["São Paulo, BR", "London, UK"];
   school   = "Etec de Peruíbe";
 }
 ```
