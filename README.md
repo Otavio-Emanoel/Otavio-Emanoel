@@ -30,13 +30,13 @@
 <br />
 
 <div align="right">
-  <img src="https://api.iconify.design/octicon:star-fill-16.svg?color=%23a855f7" width="14" />
-  <img src="https://api.iconify.design/octicon:star-fill-16.svg?color=%23a855f7" width="20" />
-  <img src="https://api.iconify.design/octicon:star-fill-16.svg?color=%23a855f7" width="14" />
+  <img src="https://api.iconify.design/octicon/star-fill-16.svg?color=%23a855f7" width="14" />
+  <img src="https://api.iconify.design/octicon/star-fill-16.svg?color=%23a855f7" width="20" />
+  <img src="https://api.iconify.design/octicon/star-fill-16.svg?color=%23a855f7" width="14" />
 </div>
 <img src="./dev.gif" alt="Developer GIF" min-width="260px" max-width="260px" width="260px" align="right" />
 
-## <img src="https://api.iconify.design/lucide:sparkles.svg?color=%23a855f7" width="24" align="center" /> About Me
+## <img src="https://api.iconify.design/lucide/sparkles.svg?color=%23a855f7" width="24" align="center" /> About Me
 
 ```javascript
 import { Developer } from "otavio-emanoel";
@@ -53,17 +53,17 @@ class AboutMe extends Developer {
 
 ### Quick Overview
 
-- <img src="https://api.iconify.design/octicon:star-fill-16.svg?color=%23a855f7" width="12" /> **Portfolio**: [otavio-emanoel-dev.vercel.app](https://otavio-emanoel-dev.vercel.app)
-- <img src="https://api.iconify.design/octicon:star-fill-16.svg?color=%23a855f7" width="12" /> **Current Position**: Software Developer Intern at **YupChat**.
-- <img src="https://api.iconify.design/octicon:star-fill-16.svg?color=%23a855f7" width="12" /> **Focus**: Building performant, responsive web applications and cross-platform mobile experiences.
-- <img src="https://api.iconify.design/octicon:star-fill-16.svg?color=%23a855f7" width="12" /> **Current Learning**: Deepening knowledge in Full Stack Architecture, Cloud Infrastructure, and Backend Performance.
-- <img src="https://api.iconify.design/octicon:star-fill-16.svg?color=%23a855f7" width="12" /> **System Preference**: Daily Linux power user experimenting across Fedora, Arch Linux, Debian, Ubuntu, and Kali Linux.
+- <img src="https://api.iconify.design/octicon/star-fill-16.svg?color=%23a855f7" width="12" /> **Portfolio**: [otavio-emanoel-dev.vercel.app](https://otavio-emanoel-dev.vercel.app)
+- <img src="https://api.iconify.design/octicon/star-fill-16.svg?color=%23a855f7" width="12" /> **Current Position**: Software Developer Intern at **YupChat**.
+- <img src="https://api.iconify.design/octicon/star-fill-16.svg?color=%23a855f7" width="12" /> **Focus**: Building performant, responsive web applications and cross-platform mobile experiences.
+- <img src="https://api.iconify.design/octicon/star-fill-16.svg?color=%23a855f7" width="12" /> **Current Learning**: Deepening knowledge in Full Stack Architecture, Cloud Infrastructure, and Backend Performance.
+- <img src="https://api.iconify.design/octicon/star-fill-16.svg?color=%23a855f7" width="12" /> **System Preference**: Daily Linux power user experimenting across Fedora, Arch Linux, Debian, Ubuntu, and Kali Linux.
 
 <br clear="right" />
 
 ---
 
-## <img src="https://api.iconify.design/lucide:sparkles.svg?color=%23a855f7" width="24" align="center" /> Tech Stack & Tools
+## <img src="https://api.iconify.design/lucide/sparkles.svg?color=%23a855f7" width="24" align="center" /> Tech Stack & Tools
 
 <table align="center">
   <tr>
@@ -141,7 +141,7 @@ class AboutMe extends Developer {
 
 ---
 
-## <img src="https://api.iconify.design/lucide:sparkles.svg?color=%23a855f7" width="24" align="center" /> GitHub Analytics
+## <img src="https://api.iconify.design/lucide/sparkles.svg?color=%23a855f7" width="24" align="center" /> GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-theta-ten-57.vercel.app/api?username=Otavio-Emanoel&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=0d1117&border_color=a855f7&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="175" />
@@ -150,13 +150,13 @@ class AboutMe extends Developer {
 
 <p align="center">
   <a href="https://github.com/Otavio-Emanoel">
-    <img src="https://github-readme-streak-stats1-blond-zeta.vercel.app?user=Otavio-Emanoel&background=0d1117&border=a855f7&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakNum=a855f7&sideNums=ffffff&sideTitle=a855f7&dates=a855f7&border_radius=10&card_width=800" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=Otavio-Emanoel&background=0d1117&border=a855f7&stroke=a855f7&ring=a855f7&fire=a855f7&currStreakNum=a855f7&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=a855f7&dates=a855f7&border_radius=10&card_width=800" alt="GitHub Streak Stats" />
   </a>
 </p>
 
 ---
 
-## <img src="https://api.iconify.design/lucide:sparkles.svg?color=%23a855f7" width="24" align="center" /> Profile Achievements
+## <img src="https://api.iconify.design/lucide/sparkles.svg?color=%23a855f7" width="24" align="center" /> Profile Achievements
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
